@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Volumes/S-Drive NEO/GitHub/GMTK_2024/GMTK_2024/Content/StarterContent/Materials/M_Glass.uasset",
+				"/Volumes/S-Drive NEO/GitHub/GMTK_2024/GMTK_2024/Content/RawContent/Human_01.uasset",
+				"/Volumes/S-Drive NEO/GitHub/GMTK_2024/GMTK_2024/Content/RawContent/Character_01.uasset",
 				"C:/Users/Ryan/Active Projects/Unreal Projects/GMTK_2024/GMTK_2024/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}

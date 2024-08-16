@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\source\\gmtk_2024\\tp_thirdperson\\tp_thirdpersongamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\intermediate\\build\\win64\\x64\\gmtk_2024editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gmtk_2024\\definitions.gmtk_2024.h",
+            "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\source\\gmtk_2024\\tp_thirdperson\\tp_thirdpersongamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\intermediate\\build\\win64\\unrealeditor\\inc\\gmtk_2024\\uht\\tp_thirdpersongamemode.generated.h",
+            "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\source\\gmtk_2024\\tp_thirdperson\\tp_thirdpersoncharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\ryan\\active projects\\unreal projects\\gmtk_2024\\gmtk_2024\\intermediate\\build\\win64\\unrealeditor\\inc\\gmtk_2024\\uht\\tp_thirdpersoncharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

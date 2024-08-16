@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GMTK_2024.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Intermediate\Build\Win64\x64\GMTK_2024Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\GMTK_2024\GMTK_2024.cpp.obj"
+"C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\GMTK_2024\Default.rc2.res"
+/OUT:"C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Intermediate\Build\Win64\x64\UnrealEditor\Development\GMTK_2024\UnrealEditor-GMTK_2024.lib"

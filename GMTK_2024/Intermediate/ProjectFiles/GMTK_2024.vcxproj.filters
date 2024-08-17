@@ -17,6 +17,9 @@
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
@@ -36,6 +39,18 @@
       <Filter>Source\GMTK_2024</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\GMTK_2024\GMTK_2024.h">
+      <Filter>Source\GMTK_2024</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GMTK_2024\GMTK_2024Character.cpp">
+      <Filter>Source\GMTK_2024</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GMTK_2024\GMTK_2024Character.h">
+      <Filter>Source\GMTK_2024</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GMTK_2024\GMTK_2024GameMode.cpp">
+      <Filter>Source\GMTK_2024</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GMTK_2024\GMTK_2024GameMode.h">
       <Filter>Source\GMTK_2024</Filter>
     </ClInclude>
   </ItemGroup>

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class GMTK_2024EditorTarget : TargetRules
 {
-	public GMTK_2024EditorTarget( TargetInfo Target) : base(Target)
+	public GMTK_2024EditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;

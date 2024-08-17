@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GMTK_2024ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdf76c9685971b96fad5d71f52cfcb2def7d70a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8538ea2b046d18fcb32385b857ea14f7337ca5a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GMTK_2024ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GMTK_2024ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
 /I "."
+/I "C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Intermediate\Build\Win64\UnrealEditor\Inc\GMTK_2024\UHT"
 /I "C:\Users\Ryan\Active Projects\Unreal Projects\GMTK_2024\GMTK_2024\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"

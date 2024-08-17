@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define GMTK_2024_GMTK_2024GameMode_generated_h
 
-#define FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGMTK_2024GameMode(); \
 	friend struct Z_Construct_UClass_AGMTK_2024GameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AGMTK_2024GameMode)
 
 
-#define FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AGMTK_2024GameMode(AGMTK_2024GameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	GMTK_2024_API virtual ~AGMTK_2024GameMode();
 
 
-#define FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_9_PROLOG
-#define FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_GENERATED_BODY \
+#define FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_9_PROLOG
+#define FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> GMTK_2024_API UClass* StaticClass<class AGMTK_2024GameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h
+#define CURRENT_FILE_ID FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

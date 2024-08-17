@@ -78,14 +78,14 @@ AGMTK_2024GameMode::~AGMTK_2024GameMode() {}
 // End Class AGMTK_2024GameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AGMTK_2024GameMode, AGMTK_2024GameMode::StaticClass, TEXT("AGMTK_2024GameMode"), &Z_Registration_Info_UClass_AGMTK_2024GameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AGMTK_2024GameMode), 2660551077U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_860882618(TEXT("/Script/GMTK_2024"),
-	Z_CompiledInDeferFile_FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Ryan_Active_Projects_Unreal_Projects_GMTK_2024_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_860882618(TEXT("/Script/GMTK_2024"),
+	Z_CompiledInDeferFile_FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GMTK_2024_Source_GMTK_2024_GMTK_2024GameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

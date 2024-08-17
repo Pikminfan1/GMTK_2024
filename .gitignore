@@ -47,7 +47,6 @@ GMTK_2024/SourceArt/**/*.tga
 
 # Binary Files
 GMTK_2024/Binaries/*
-GMTK_2024\Binaries\*
 GMTK_2024/Plugins/**/Binaries/*
 
 # Builds
@@ -76,4 +75,3 @@ GMTK_2024/DerivedDataCache/*
 
 # Developer Folder
 GMTK_2024/Developers/*
-GMTK_2024/Binaries/Win64/GMTK_2024Editor.target
